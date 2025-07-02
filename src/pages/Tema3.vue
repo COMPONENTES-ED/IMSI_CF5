@@ -121,7 +121,7 @@
                   controladores permiten implementar protocolos de seguridad que
                   limitan el acceso y protegen los datos que se transmiten a
                   través de la red. Con configuraciones de autenticación y
-                  cifrado avanzadas, como WPA3, las redes inalámbricas pueden
+                  cifrado avanzado, como WPA3, las redes inalámbricas pueden
                   protegerse contra accesos no autorizados y ataques de
                   intrusión, lo que es altamente relevante para preservar la
                   confidencialidad y la integridad de la información. La
@@ -193,8 +193,9 @@
                 estabilidad.
               </td>
               <td>
-                <em>Software</em> de gestión de tráfico, QoS (Quality of
-                Service).
+                <em>Software</em> de gestión de tráfico, QoS (<em
+                  >Quality of Service</em
+                >).
               </td>
             </tr>
             <tr>

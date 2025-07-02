@@ -32,7 +32,7 @@
               Uno de los métodos más utilizados para proteger redes inalámbricas
               es la implementación de protocolos de seguridad, como WEP (<em
                 >Wired Equivalent Privacy</em
-              >), WPA (Wi-Fi <em>Protected Access</em>) y WPA2. Estos protocolos
+              >), WPA (<em>Wi-Fi Protected Access</em>) y WPA2. Estos protocolos
               encriptan la información que circula en la red, dificultando el
               acceso a los datos transmitidos por personas no autorizadas. Sin
               embargo, cada protocolo tiene un nivel de seguridad diferente;
@@ -411,7 +411,7 @@
         </div>
       </div>
       <div class="row justify-content-center mb-5">
-        <div class="col-lg-9 col-6 mb-lg-0 mb-3">
+        <div class="col-lg-9 mb-lg-0 mb-3">
           <AccordionRED
             class="mb-5"
             tipo="a"
