@@ -59,39 +59,45 @@ export default {
     complementarioData() {
       return [
         {
+          tema: '',
+          referencia: '',
+          tipo: 'Video',
+          link: '',
+        },
+        {
           tema: '1. Tecnologías inalámbricas',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2021f, junio 25). Tecnologías inalámbricas.',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2021, 25 junio). <em>¿Cómo funcionan las redes inalámbricas?</em> [Vídeo]. YouTube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=hyIpJZBLYg0',
         },
         {
-          tema: '2. Dispositivos y componentes IoT',
+          tema: '3. Infraestructura inalámbrica',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023d, octubre 30). Infraestructura Inalambrica.',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023, octubre 30). <em>Site Survey</em> [Vídeo]. YouTube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=XaZJ3EYxQHU',
         },
         {
-          tema: '3. Infraestructura inalámbrica',
+          tema: '2. Dispositivos y componentes IoT',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2022f, marzo 11). Dispositivos y componentes IoT.',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2022, 11 marzo). <em>Arquitectura de internet de las cosas</em> (IoT) [Vídeo]. YouTube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=gaa-7nYolxE',
         },
         {
           tema: '4. Seguridad en redes inalámbricas',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023e, enero 29). Seguridad en redes inalámbricas.',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023, enero 30). <em>Herramientas de monitoreo y control</em> [Vídeo]. YouTube. YouTube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=gp2cLOeucn4',
         },
         {
           tema: '4. Seguridad en redes inalámbricas',
           referencia:
-            'Contando Bits. (2024c, agosto 8). Protocolos de seguridad (WEP, WPA, WPA2).',
+            'Contando Bits. (2024, 8 agosto). <em> Seguridad en Redes WIFI Protocolos WEP, WPA, WPA2 y WPA3</em> [Vídeo]. YouTube.',
           tipo: 'Video',
-          link: 'https://youtu.be/bloaGu5rl_I?feature=shared',
+          link: 'https://www.youtube.com/watch?v=bloaGu5rl_I',
         },
       ]
     },

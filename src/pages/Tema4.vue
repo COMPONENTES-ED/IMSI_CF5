@@ -466,7 +466,7 @@
               <p class="mb-0">
                 De los dispositivos de red es otra práctica fundamental en la
                 gestión. Las actualizaciones corrigen vulnerabilidades y mejoran
-                el rendimiento de los Access Points, routers y otros
+                el rendimiento de los <em>Access Points</em>, routers y otros
                 dispositivos de la red. Un programa de actualización periódica
                 asegura que la red esté protegida contra las amenazas más
                 recientes y que funcione con los últimos estándares de
@@ -508,10 +508,7 @@
         <div class="col-lg-10">
           <div class="cajon color-secundario p-4 mb-4">
             <div class="row justify-content-center align-items-center">
-              <div class="col-lg-1 col-4 mb-lg-0 mb-3">
-                <img src="@/assets/curso/temas/50.svg" alt="" />
-              </div>
-              <div class="col-lg-11">
+              <div class="col-lg-12">
                 <p class="mb-0">
                   Finalmente, el registro y almacenamiento de eventos de red son
                   componentes esenciales de una estrategia de monitoreo y
@@ -535,7 +532,7 @@
             data-aos="fade-right"
           >
             <h5>Figura 2.</h5>
-            <span>Estándares y protocolos de conectividad inalámbrica</span>
+            <span>Ciclo de monitoreo y gestión en redes inalámbricas</span>
           </div>
           <img
             src="@/assets/curso/temas/51.svg"
