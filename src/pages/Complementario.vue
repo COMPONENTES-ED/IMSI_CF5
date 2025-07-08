@@ -59,12 +59,6 @@ export default {
     complementarioData() {
       return [
         {
-          tema: '',
-          referencia: '',
-          tipo: 'Video',
-          link: '',
-        },
-        {
           tema: '1. Tecnologías inalámbricas',
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2021, 25 junio). <em>¿Cómo funcionan las redes inalámbricas?</em> [Vídeo]. YouTube.',
@@ -72,18 +66,18 @@ export default {
           link: 'https://www.youtube.com/watch?v=hyIpJZBLYg0',
         },
         {
-          tema: '3. Infraestructura inalámbrica',
-          referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023, octubre 30). <em>Site Survey</em> [Vídeo]. YouTube.',
-          tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=XaZJ3EYxQHU',
-        },
-        {
           tema: '2. Dispositivos y componentes IoT',
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2022, 11 marzo). <em>Arquitectura de internet de las cosas</em> (IoT) [Vídeo]. YouTube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=gaa-7nYolxE',
+        },
+        {
+          tema: '3. Infraestructura inalámbrica',
+          referencia:
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023, octubre 30). <em>Site Survey</em> [Vídeo]. YouTube.',
+          tipo: 'Video',
+          link: 'https://www.youtube.com/watch?v=XaZJ3EYxQHU',
         },
         {
           tema: '4. Seguridad en redes inalámbricas',
